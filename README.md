@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Nelson Calderon</h1>
 <h3 align="center">Full-Stack en crecimiento</h3>
 
-- 🔭 I’m currently working on **Proyectos personales**
+- 🔭 I’m currently working on **Personal projects**
 
 - 🌱 I’m currently learning **Cursos, C#, Python**
 
-- 🤝 I’m looking for help with **Programacion y mejorar las habilidades**
+- 🤝 I’m looking for help with **Programming and improve my skills**
 
 - 📫 How to reach me **www.linkedin.com/in/nelson-calderon-88b328238, nelsoncalderon1988@gmail.com**
 
